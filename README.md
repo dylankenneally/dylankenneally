@@ -18,7 +18,7 @@
 #### I've got
 - over 20 years of fantastic experience in the software industry
 - a long history of successful delivery with a wide variety of tech, including C++, javascript, react, node.js, docker, AWS (and similar), and a whole lot more
-- lots of exposure to working with agile & scrum (my roles included being a for many years)
+- lots of exposure to working with agile & scrum (my roles included being a scrum master for many years)
 - a proven track record of technical leadership for best-in-class global teams
 - a huge passion for software development and seeing how what we build helps those around us
 

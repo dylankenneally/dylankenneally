@@ -92,7 +92,7 @@
 </p>
 
 #### Access to source code
-Most of my work has been for private companies and private clients. I'm sure you'll appreaciate that they prefer much of their code to be closed source. If you are interested in a particular product or project I've been involved with, please get in touch and I'll arrange access for you - I'm on great terms with everyone I've worked with over the years, so they are generally happy to provide access to the code when asked. Where possible, I will try open source as much as I can, but it's the employeres/clients code at the end of the day.
+Most of my work has been for private companies & private clients. I'm sure you'll appreciate that they prefer much of their code to be closed-source. If you'd like to dig into a particular product or project I've worked on, please get in touch & I'll arrange access for you. I'm on great terms with everyone I've worked with over the years, so they're usually more than happy to provide access to the code when asked. Where possible, I open source as much as I can, but it's the employer's/client's code at the end of the day.
 
 <!--
 #### Most of my work has been in corporate/enterprise git repos

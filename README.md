@@ -82,18 +82,23 @@
 
 #### Connect with me on
 <p align="center">
-    <a href="https://dylankenneally.com" target="blank"><img src="https://img.icons8.com/color/344/domain--v1.png" alt="Website" title="Website" height="30")>
-    <a href="https://twitter.com/dylankenneally" target="blank"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="Twitter" title="Twitter" height="30")>
-    <a href="https://linkedin.com/in/dylankenneally" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30")>
-    <a href="https://facebook.com/dylankenneally" target="blank"><img src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Facebook" title="Facebook" height="30")>
-    <a href="https://instagram.com/dylankenneally_" target="blank"><img src="https://img.icons8.com/color/344/instagram-new--v2.png" alt="Instagram" title="Instagram" height="30")>
-    <a href="https://github.com/dylankenneally" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30")>
-    <a href="https://linktr.ee/dylankenneally" target="blank"><img src="https://img.icons8.com/color/344/linktree.png" alt="LinkTr.ee" title="LinkTr.ee" height="30")>
+    <a href="https://dylankenneally.com" target="blank"><img src="https://img.icons8.com/color/344/domain--v1.png" alt="Website" title="Website" height="30"></a>
+    <a href="https://twitter.com/dylankenneally" target="blank"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="Twitter" title="Twitter" height="30"></a>
+    <a href="https://linkedin.com/in/dylankenneally" target="blank"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" height="30"></a>
+    <a href="https://facebook.com/dylankenneally" target="blank"><img src="https://img.icons8.com/fluency/344/facebook-new.png" alt="Facebook" title="Facebook" height="30"></a>
+    <a href="https://instagram.com/dylankenneally_" target="blank"><img src="https://img.icons8.com/color/344/instagram-new--v2.png" alt="Instagram" title="Instagram" height="30"></a>
+    <a href="https://github.com/dylankenneally" target="blank"><img src="https://img.icons8.com/color/344/github--v1.png" alt="GitHub" title="GitHub" height="30"></a>
+    <a href="https://linktr.ee/dylankenneally" target="blank"><img src="https://img.icons8.com/color/344/linktree.png" alt="LinkTr.ee" title="LinkTr.ee" height="30"></a>
 </p>
 
+#### Access to source code
+Most of my work has been for private companies and private clients. I'm sure you'll appreaciate that they prefer much of their code to be closed source. If you are interested in a particular product or project I've been involved with, please get in touch and I'll arrange access for you - I'm on great terms with everyone I've worked with over the years, so they are generally happy to provide access to the code when asked. Where possible, I will try open source as much as I can, but it's the employeres/clients code at the end of the day.
+
+<!--
 #### Most of my work has been in corporate/enterprise git repos
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dylankenneally&count_private=true&show_icons=true" alt="GitHub Stats" title="GitHub Stats">
     <br />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dylankenneally" alt="GitHub streak" title="GitHub streak">
 </p>
+-->
